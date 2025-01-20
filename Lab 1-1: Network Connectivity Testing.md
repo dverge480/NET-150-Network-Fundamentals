@@ -1,4 +1,7 @@
 # Lab 1-1: Network Connectivity Testing
+
+This lab aims to explore network connectivity and diagnostic tools, using commands like ipconfig, ping, tracert, and nslookup to analyze local and internet networks, gather system information, and test communication.
+
 ### Objectives: 
 - Turn your firewall off so others can "ping" your system
 - Discover network information about your system using the command line tool ipconfig
