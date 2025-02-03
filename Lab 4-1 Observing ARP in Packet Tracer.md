@@ -8,6 +8,7 @@ Select the Device Category, locate the device you want, and click-drag into the 
 Do not connect the computers to the switch yet.
 
 What is the MAC address of the ethernet adapter on PC0? 00E0.B01B.35BE
+
 Is there an IP address? No
 
 Hold the mouse over the switch to see the configuration.
