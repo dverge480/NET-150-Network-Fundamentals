@@ -1,6 +1,6 @@
 # Lab 3-1 ARP Observation
 
-lab aims to demonstrate the process of capturing and analyzing ARP (Address Resolution Protocol) requests.
+This lab aims to demonstrate the process of capturing and analyzing ARP (Address Resolution Protocol) requests.
 
 ### Notes:
 
